@@ -26,6 +26,9 @@ class Solution:
         elif l2.val == 0:
             return l1
         else:
+            pass
+
+
 
 
 if __name__ == '__main__':
